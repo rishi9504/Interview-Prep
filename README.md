@@ -17,3 +17,9 @@ https://www.geeksforgeeks.org/python-in-competitive-programming/
 https://towardsdatascience.com/python-tricks-and-tips-for-competitive-coding-a4c29498e8c7
 
 
+
+Interview Questions and Answers on Python:
+
+https://www.interviewbit.com/python-interview-questions/
+
+
