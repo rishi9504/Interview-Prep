@@ -22,4 +22,7 @@ Interview Questions and Answers on Python:
 
 https://www.interviewbit.com/python-interview-questions/
 
+Python Docs itself:
+
+https://docs.python.org/3/tutorial/introduction.html
 
